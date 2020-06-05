@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "34D606EE-790F-4645-8C36-CA6EA812BBC1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "15320A9A-F206-452C-B3FA-001C3CC32E37"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RatingzAppp/View/Coordinator/Storyboarded.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "StoryBoarded"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3A0BC578-5397-419F-9B35-2C97BA54A34D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RatingzAppp/Controller/MoviesMainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3A0BC578-5397-419F-9B35-2C97BA54A34D - 1f1a14a907438f61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RatingzAppp.MoviesMainViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "RatingzAppp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Brunokucevic/Desktop/SwiftProjects/RatingzAppp/RatingzAppp/Controller/MoviesMainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "1388">
+               </Location>
+               <Location
+                  uuid = "3A0BC578-5397-419F-9B35-2C97BA54A34D - e4a59838c4a03cf4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;RatingzAppp.MoviesModel&gt;) -&gt; () in RatingzAppp.MoviesMainViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "RatingzAppp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Brunokucevic/Desktop/SwiftProjects/RatingzAppp/RatingzAppp/Controller/MoviesMainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AAC82EDF-C624-48F2-BC09-9070A97F313A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RatingzAppp/Services/JSONParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "fetch(urlString:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "97BA2C72-B9E9-4230-A388-6EF24BDE86F0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RatingzAppp/Services/JSONParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "fetch(urlString:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "97BA2C72-B9E9-4230-A388-6EF24BDE86F0 - 2a7048b4d87bd32d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RatingzAppp.JSONParser.fetch&lt;A where A: Swift.Decodable, A: Swift.Encodable&gt;(urlString: Swift.String, completionHandler: (Swift.Result&lt;Swift.Array&lt;A&gt;, RatingzAppp.RequestError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "RatingzAppp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Brunokucevic/Desktop/SwiftProjects/RatingzAppp/RatingzAppp/Services/JSONParser.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "393">
+               </Location>
+               <Location
+                  uuid = "97BA2C72-B9E9-4230-A388-6EF24BDE86F0 - 9ad08588825fa960"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in RatingzAppp.JSONParser.fetch&lt;A where A: Swift.Decodable, A: Swift.Encodable&gt;(urlString: Swift.String, completionHandler: (Swift.Result&lt;Swift.Array&lt;A&gt;, RatingzAppp.RequestError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "RatingzAppp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Brunokucevic/Desktop/SwiftProjects/RatingzAppp/RatingzAppp/Services/JSONParser.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "240">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E2AC4C57-C278-4AFB-B2B9-47F459E6255F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RatingzAppp/Services/JSONParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "fetch(urlString:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A6997009-288C-47D5-BDAF-E6EC81B07DB2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RatingzAppp/Services/JSONParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "fetch(urlString:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "71D63BBD-D805-4FE6-AC14-41C6C4897ED3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RatingzAppp/Services/RatingzApppDataHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "getData(callBack:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "71D63BBD-D805-4FE6-AC14-41C6C4897ED3 - 50200ed8b8c4d9fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RatingzAppp.RatingzApppDataHandler.getData(callBack: (Swift.Array&lt;RatingzAppp.MoviesModelResult&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "RatingzAppp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Brunokucevic/Desktop/SwiftProjects/RatingzAppp/RatingzAppp/Services/RatingzApppDataHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "50">
+               </Location>
+               <Location
+                  uuid = "71D63BBD-D805-4FE6-AC14-41C6C4897ED3 - 88be8fceada87bb6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;RatingzAppp.MoviesModel, RatingzAppp.RequestError&gt;) -&gt; () in RatingzAppp.RatingzApppDataHandler.getData(callBack: (Swift.Array&lt;RatingzAppp.MoviesModelResult&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "RatingzAppp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Brunokucevic/Desktop/SwiftProjects/RatingzAppp/RatingzAppp/Services/RatingzApppDataHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "81">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3CD337C5-830B-41BC-B66D-3B7501906442"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RatingzAppp/Services/JSONParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "fetch(urlString:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B5EA5B70-48D5-4B6B-8FCC-E71EC0E55090"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RatingzAppp/Services/JSONParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "fetch(urlString:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BE9BFF4F-53BE-470B-BC9D-8D260A7A9D10"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RatingzAppp/Controller/MoviesMainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BE9BFF4F-53BE-470B-BC9D-8D260A7A9D10 - 8306c4d649e90518"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;RatingzAppp.MoviesModelResult&gt;) -&gt; () in RatingzAppp.MoviesMainViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "RatingzAppp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Brunokucevic/Desktop/SwiftProjects/RatingzAppp/RatingzAppp/Controller/MoviesMainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "158">
+               </Location>
+               <Location
+                  uuid = "BE9BFF4F-53BE-470B-BC9D-8D260A7A9D10 - 6a17c1773a1f15c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Array&lt;RatingzAppp.MoviesModelResult&gt;) -&gt; () in RatingzAppp.MoviesMainViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "RatingzAppp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Brunokucevic/Desktop/SwiftProjects/RatingzAppp/RatingzAppp/Controller/MoviesMainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "243A2FBC-C4A3-487B-AD6E-CD44CFEBC474"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RatingzAppp/Controller/MoviesMainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "172FC3E6-3837-4895-857D-77BC827A2FBD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RatingzAppp/View/Coordinator/MoviesCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "navigationController(_:didShow:animated:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9BF290A5-FD85-4EDA-BE83-C497D3EE54E7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RatingzAppp/View/Coordinator/MoviesCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "childDidFinish(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "820A3660-577C-4C48-8A9C-7654497CCFF7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RatingzAppp/View/Coordinator/MoviesCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "navigationController(_:didShow:animated:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A638256B-AC58-4580-A472-5B5B54A7387E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RatingzAppp/Controller/MoviesDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "moreLikeThisBtnTapped(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "435925BA-EF94-48AC-808D-52344309449D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RatingzAppp/Services/RatingzApppDataHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "getData(movieId:callBack:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "435925BA-EF94-48AC-808D-52344309449D - 5487bf5aaff15f21"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RatingzAppp.RatingzApppDataHandler.getData(movieId: Swift.Optional&lt;Swift.Int&gt;, callBack: (Swift.Array&lt;RatingzAppp.MoviesModelResult&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "RatingzAppp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Brunokucevic/Desktop/SwiftProjects/RatingzAppp/RatingzAppp/Services/RatingzApppDataHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "373">
+               </Location>
+               <Location
+                  uuid = "435925BA-EF94-48AC-808D-52344309449D - ff7092093f23e6a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;RatingzAppp.MoviesModel, RatingzAppp.RequestError&gt;) -&gt; () in RatingzAppp.RatingzApppDataHandler.getData(movieId: Swift.Optional&lt;Swift.Int&gt;, callBack: (Swift.Array&lt;RatingzAppp.MoviesModelResult&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "RatingzAppp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Brunokucevic/Desktop/SwiftProjects/RatingzAppp/RatingzAppp/Services/RatingzApppDataHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "95">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F2C666C9-2A61-45EB-9FE7-44C5F9467911"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RatingzAppp/Controller/MoviesMoreLikeThisViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F2C666C9-2A61-45EB-9FE7-44C5F9467911 - fb6ac2388e347524"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RatingzAppp.MoviesMoreLikeThisViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "RatingzAppp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Brunokucevic/Desktop/SwiftProjects/RatingzAppp/RatingzAppp/Controller/MoviesMoreLikeThisViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "1359">
+               </Location>
+               <Location
+                  uuid = "F2C666C9-2A61-45EB-9FE7-44C5F9467911 - 3c1fae600ccb4a00"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;RatingzAppp.MoviesModelResult&gt;) -&gt; () in RatingzAppp.MoviesMoreLikeThisViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "RatingzAppp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Brunokucevic/Desktop/SwiftProjects/RatingzAppp/RatingzAppp/Controller/MoviesMoreLikeThisViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "158">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DF42B037-9289-4A0B-ADD0-61A6DCFFB817"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RatingzAppp/Controller/MoviesMoreLikeThisViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "95FF8FCB-DA17-494F-92DD-ABF4F4F95C70"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RatingzAppp/Controller/MoviesDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "moreLikeThisBtnTapped(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "73C2C038-ED97-4957-95C3-5FE38A0A6C85"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RatingzAppp/Controller/MoviesDetailsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "moreLikeThisBtnTapped(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A4DD79D1-D5F4-41E4-9189-AE17A88EA2E5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RatingzAppp/Services/RatingzApppDataHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "getData(movieId:callBack:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F0F533D5-EBBC-4452-BEF9-97930EE6C34B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RatingzAppp/Services/RatingzApppDataHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "getData(movieId:callBack:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6DBDDCD5-F1AF-4C54-8D9B-27D3EC11352A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RatingzAppp/View/Coordinator/MoviesDetailsCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "subscribeToMoreLikeThis(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DE56BAC9-62EA-4067-9E32-CAE5367BABFF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RatingzAppp/View/Coordinator/MoviesMoreLikeThisCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "init(navigationController:movieId:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F87BC039-E2B6-48AE-A43E-B9358ED36FBB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RatingzAppp/View/Coordinator/MoviesMoreLikeThisCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "init(navigationController:movieId:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F87BC039-E2B6-48AE-A43E-B9358ED36FBB - cd2b4a22c5b761a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RatingzAppp.MoviesMoreLikeThisCoordinator.__allocating_init(navigationController: __C.UINavigationController, movieId: Swift.Int) -&gt; RatingzAppp.MoviesMoreLikeThisCoordinator"
+                  moduleName = "RatingzAppp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Brunokucevic/Desktop/SwiftProjects/RatingzAppp/RatingzAppp/View/Coordinator/MoviesMoreLikeThisCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "F87BC039-E2B6-48AE-A43E-B9358ED36FBB - 2d5ca7102431cdef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RatingzAppp.MoviesMoreLikeThisCoordinator.init(navigationController: __C.UINavigationController, movieId: Swift.Int) -&gt; RatingzAppp.MoviesMoreLikeThisCoordinator"
+                  moduleName = "RatingzAppp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Brunokucevic/Desktop/SwiftProjects/RatingzAppp/RatingzAppp/View/Coordinator/MoviesMoreLikeThisCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "47">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "502199C0-DB3C-4D3F-9C94-85B187662442"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RatingzAppp/Helper/ApiInfo.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "ApiInfo"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "502199C0-DB3C-4D3F-9C94-85B187662442 - 370400ceddebb3d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "globalinit_33_BAC0861174BAF82DF3DA6F3736EBDF93_func3"
+                  moduleName = "RatingzAppp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Brunokucevic/Desktop/SwiftProjects/RatingzAppp/RatingzAppp/Helper/ApiInfo.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "8">
+               </Location>
+               <Location
+                  uuid = "502199C0-DB3C-4D3F-9C94-85B187662442 - 19ddb47b7bc4a89d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RatingzAppp.ApiInfo.movieId.unsafeMutableAddressor : Swift.String"
+                  moduleName = "RatingzAppp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Brunokucevic/Desktop/SwiftProjects/RatingzAppp/RatingzAppp/Helper/ApiInfo.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "24C07352-3340-424E-A6D7-DFBA4438F16A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RatingzAppp/Helper/ApiInfo.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "ApiInfo"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "24C07352-3340-424E-A6D7-DFBA4438F16A - 370400cedddbb3d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "globalinit_33_BAC0861174BAF82DF3DA6F3736EBDF93_func4"
+                  moduleName = "RatingzAppp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Brunokucevic/Desktop/SwiftProjects/RatingzAppp/RatingzAppp/Helper/ApiInfo.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "24C07352-3340-424E-A6D7-DFBA4438F16A - 912a7da6cc7fffcf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RatingzAppp.ApiInfo.moreLikeThisMoviesBaseUrl1.unsafeMutableAddressor : Swift.String"
+                  moduleName = "RatingzAppp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Brunokucevic/Desktop/SwiftProjects/RatingzAppp/RatingzAppp/Helper/ApiInfo.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2A802CBD-8C5C-429E-A622-888EC807DAA0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RatingzAppp/Helper/ApiInfo.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "ApiInfo"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "2A802CBD-8C5C-429E-A622-888EC807DAA0 - 370400ceddcbb3d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "globalinit_33_BAC0861174BAF82DF3DA6F3736EBDF93_func5"
+                  moduleName = "RatingzAppp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Brunokucevic/Desktop/SwiftProjects/RatingzAppp/RatingzAppp/Helper/ApiInfo.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "2A802CBD-8C5C-429E-A622-888EC807DAA0 - ba624d0765aed1cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RatingzAppp.ApiInfo.moreLikeThisMoviesBaseUrl2.unsafeMutableAddressor : Swift.String"
+                  moduleName = "RatingzAppp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Brunokucevic/Desktop/SwiftProjects/RatingzAppp/RatingzAppp/Helper/ApiInfo.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EF847726-000C-4891-8537-4C87DE86A670"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RatingzAppp/Helper/ApiInfo.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "finalUrlMoreLikeThis"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "43D39CAA-186C-4E03-BC57-4D4C49DE0E93"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RatingzAppp/Helper/ApiInfo.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "finalUrlMoreLikeThis"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "31F94320-BEF2-4081-8856-9986EB263644"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RatingzAppp/Helper/ApiInfo.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "id"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
